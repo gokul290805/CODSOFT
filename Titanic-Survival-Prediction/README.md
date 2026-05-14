@@ -186,12 +186,6 @@ jupyter
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 ## 🙏 Acknowledgements
 
 - Dataset sourced from [Kaggle — Titanic Dataset](https://www.kaggle.com/c/titanic)
