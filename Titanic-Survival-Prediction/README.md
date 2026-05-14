@@ -181,8 +181,8 @@ jupyter
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/gokul290805)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/gokul-krishnan-615226260/)
+- GitHub: [@gokul290805](https://github.com/gokul290805)
+- LinkedIn: [Gokul Krishnan](https://www.linkedin.com/in/gokul-krishnan-615226260/)
 
 ---
 
