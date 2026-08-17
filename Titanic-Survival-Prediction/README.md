@@ -189,4 +189,3 @@ jupyter
 ## 🙏 Acknowledgements
 
 - Dataset sourced from [Kaggle — Titanic Dataset](https://www.kaggle.com/c/titanic)
-- Project completed as part of a Virtual Internship Program at CodSoft
