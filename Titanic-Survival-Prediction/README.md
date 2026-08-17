@@ -180,7 +180,7 @@ jupyter
 
 ## 👤 Author
 
-**Your Name**
+**Gokul Krishnan**
 - GitHub: [@gokul290805](https://github.com/gokul290805)
 - LinkedIn: [Gokul Krishnan](https://www.linkedin.com/in/gokul-krishnan-615226260/)
 
